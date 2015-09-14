@@ -1,0 +1,3 @@
+A small application proxy that takes connections and passes them on to a remote host.
+
+Uses py.test for tests, but has no external dependencies otherwise. Only works on Linux because of epoll.
