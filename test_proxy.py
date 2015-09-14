@@ -6,7 +6,7 @@ import sys
 
 import pytest
 
-from relay import Proxy
+from proxy import Proxy
 
 
 class EchoServer(object):
